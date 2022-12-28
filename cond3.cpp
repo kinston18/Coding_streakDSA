@@ -16,5 +16,4 @@ for ( i = 1; i <=n; i++)
 }
 
 cout<<"The value of sum is " <<sum <<endl;
-     
 }
